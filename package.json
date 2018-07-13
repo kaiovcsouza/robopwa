@@ -2,7 +2,7 @@
   "name": "robopwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kaiovcsouza.github.io/robopwa",
+  "homepage": "https://kaiovcsouza.github.io/robopwa/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
